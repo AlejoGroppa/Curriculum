@@ -5,7 +5,7 @@ const resume = {
             position: 'Desarrollador web',
             company: 'Policia de Seguridad Aeroportuaria',
             location: 'Remoto - presencial',
-            time: '2019 - 2022',
+            time: '2019 - actualmente',
             description: 'Fui miembro del equipo de desarrollo de la **Policia de Seguridad Aeroportuaria** en el puesto de **Desarrollador web jr**, haciendo tareas **full Stack**.',
             technologies: [
                 'Laravel',
