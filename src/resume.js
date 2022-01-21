@@ -3,7 +3,7 @@ const resume = {
     experiences: [
         {
             position: 'Desarrollador web',
-            company: 'PSA',
+            company: 'Policia de Seguridad Aeroportuaria',
             location: 'Remoto - presencial',
             time: '2019 - 2022',
             description: 'Fui miembro del equipo de desarrollo de la **Policia de Seguridad Aeroportuaria** en el puesto de **Desarrollador web jr**, haciendo tareas **full Stack**.',
