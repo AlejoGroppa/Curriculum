@@ -6,7 +6,7 @@ const resume = {
             company: 'Policia de Seguridad Aeroportuaria',
             location: 'Remoto - presencial',
             time: '2019 - actualmente',
-            description: 'Fui miembro del equipo de desarrollo de la **Policia de Seguridad Aeroportuaria** en el puesto de **Desarrollador web jr**, haciendo tareas **full Stack**.',
+            description: 'Miembro del equipo de desarrollo de la **Policia de Seguridad Aeroportuaria** en el puesto de **Desarrollador web jr**, haciendo tareas **full Stack**.',
             technologies: [
                 'Laravel',
                 'Gitlab',
@@ -28,7 +28,7 @@ const resume = {
             },
             {
                 name:'Gitlab',
-                description: 'Manejo de tareas, manejo de ramas, Funcionamiento mergeo de ramas, Funcionamiento entrega continua, Funcionamiento integración continua',
+                description: 'Administracion de tareas, administracion de ramas, fucion de ramas, funcionamiento entrega continua',
             },
 
             ]
