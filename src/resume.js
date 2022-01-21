@@ -20,7 +20,7 @@ const resume = {
         items: [
             {
                 name:'Frontend',
-                description: 'HTML, CSS, bootstrap',
+                description: 'HTML, CSS, Bootstrap',
             },
             {
                 name:'Backend',
