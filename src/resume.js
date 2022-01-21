@@ -10,7 +10,7 @@ const resume = {
             technologies: [
                 'Laravel',
                 'Gitlab',
-                'Utilizacion de base de datos con el Navicat'
+                'Oracle'
 
             ]
         },
@@ -19,11 +19,11 @@ const resume = {
         header: '',
         items: [
             {
-                name:'Desarrollo',
-                description: 'HTML, CSS',
+                name:'Frontend',
+                description: 'HTML, CSS, bootstrap',
             },
             {
-                name:'Lenguajes',
+                name:'Backend',
                 description:'Java, PHP, Python',
             },
             {
