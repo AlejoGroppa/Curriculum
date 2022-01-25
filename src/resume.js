@@ -1,5 +1,5 @@
 const resume = {
-    summary: '**Desarrollador web** de San Martín, Buenos Aires, estudiante de la carrera de **Ingerniera en computacion** en la Universidad Nacional de Tres de Febrero. Me gusta el **desarrollo web** y tambien la **programacion orientada a objetos**, con aspiraciones a crecer como desarrollador. Me interesa aprender e investigar por mi cuenta pero tambien me sienta cómodo el trabajo en equipo.',
+    summary: '**Desarrollador web** de San Martín, Buenos Aires, estudiante de la carrera de **Ingenieria en computacion** en la Universidad Nacional de Tres de Febrero. Me gusta el **desarrollo web** y tambien la **programacion orientada a objetos**, con aspiraciones a crecer como desarrollador. Me interesa aprender e investigar por mi cuenta pero tambien me sienta cómodo el trabajo en equipo.',
     experiences: [
         {
             position: 'Desarrollador web',
