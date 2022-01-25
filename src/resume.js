@@ -6,7 +6,7 @@ const resume = {
             company: 'Policia de Seguridad Aeroportuaria',
             location: 'Remoto - presencial',
             time: '2019 - actualmente',
-            description: 'Miembro del equipo de desarrollo de la **Policia de Seguridad Aeroportuaria** en el puesto de **Desarrollador web jr**, haciendo tareas **full Stack**. Participe en varios sitemas como por ejemplo: **SiCOVID** Sistema utilizado para registrar declaraciones juradas de los pasajeros. **Logistica** Sistema logistico utilizado para gestinar bienes. Entre otros sistemas',
+            description: 'Miembro del equipo de desarrollo de la **Policia de Seguridad Aeroportuaria** en el puesto de **Desarrollador web jr**, haciendo tareas **full Stack**. Participé en varios sistemas como por ejemplo: **SiCOVID** Sistema utilizado para registrar declaraciones juradas de los pasajeros. **Logistica** Sistema logistico utilizado para gestionar bienes, declarar su ubicacion, el estado y demas detalles. Entre otros sistemas',
             technologies: [
                 'Laravel',
                 'Gitlab',
