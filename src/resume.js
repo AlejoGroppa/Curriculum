@@ -6,11 +6,20 @@ const resume = {
             company: 'Policia de Seguridad Aeroportuaria',
             location: 'Remoto - presencial',
             time: '2019 - actualmente',
-            description: 'Miembro del equipo de desarrollo de la **Policia de Seguridad Aeroportuaria** en el puesto de **Desarrollador web jr**, haciendo tareas **full Stack**.',
+            description: 'Miembro del equipo de desarrollo de la **Policia de Seguridad Aeroportuaria** en el puesto de **Desarrollador web jr**, haciendo tareas **full Stack**. ',
             technologies: [
                 'Laravel',
                 'Gitlab',
                 'Oracle'
+
+            ],
+
+            sistemas: [
+                'SiCOVID',
+                'Logistica Policial',
+                'Portal DGT',
+                'Guia desarrollo',
+                
 
             ]
         },
@@ -36,6 +45,7 @@ const resume = {
     skills: [
         {            
             name: 'Laravel (sistemas PSA)',
+
             
         },
         {

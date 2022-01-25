@@ -3,6 +3,21 @@ import ReactMarkdown from 'react-markdown'
 
 function Experience(props) {
 
+    const sistemas =  (item) => {
+        if (!item.sistemas) {
+            return null;
+        }
+
+        return (
+            <div>
+                <p><b>Sistemas:</b></p>
+                <ul>
+                    {item.sistemas.map((item,index) => <li key={index}>{item}</li>)}
+                </ul>
+            </div>
+        )
+    }
+
     const technologies =  (item) => {
         if (!item.technologies) {
             return null;
@@ -10,13 +25,15 @@ function Experience(props) {
 
         return (
             <div>
-                <p><b>Technologies:</b></p>
+                <p><b>Herramientas:</b></p>
                 <ul>
                     {item.technologies.map((item,index) => <li key={index}>{item}</li>)}
                 </ul>
             </div>
         )
     }
+
+
 
     const experienceItem = (item,index) => {
         return (
@@ -31,6 +48,7 @@ function Experience(props) {
                 <div className="details">
                     <ReactMarkdown source={item.description} />
                     {item.description_extra ? <ReactMarkdown source={item.description_extra} /> : null}
+                    {sistemas(item)}
                     {technologies(item)}
                 </div>
             </div>
