@@ -23,6 +23,7 @@ function App() {
                     skills={resume.skills}
               />
       </div>
+      <Footer />
     </div>
   );
 }
