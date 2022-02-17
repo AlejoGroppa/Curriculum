@@ -11,8 +11,15 @@ const developer = {
     education: [{
         degree: 'Técnico en Informática Personal y Profesional',
         school: 'Escuela de Educación Técnica N°5 “Galileo Galilei” ',
-        time: '2008-2013'
+        time: '2008-2013',
     }],
+
+    education2: [{
+        degree2: 'Ingenieria en computacion',
+        school2: 'Universidad Nacional de Tres de Febrero',
+        time2: '2017-en curso',
+    }],
+    
     languages: [{
             name: 'Español',
             level: 'Nativo'

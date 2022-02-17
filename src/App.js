@@ -13,6 +13,7 @@ function App() {
       <Sidebar profile={developer.profile} 
                contact={developer.contact}
                education={developer.education}
+               education2={developer.education2}
                languages={developer.languages}
                interests={developer.interests}
               />
@@ -22,7 +23,6 @@ function App() {
                     skills={resume.skills}
               />
       </div>
-      <Footer />
     </div>
   );
 }

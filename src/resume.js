@@ -33,7 +33,7 @@ const resume = {
             },
             {
                 name:'Backend',
-                description:'JavaScript, PHP, Python',
+                description:'PHP, Python',
             },
             {
                 name:'Gitlab',
